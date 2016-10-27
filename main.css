@@ -1,0 +1,43 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.wrapper{
+	width: 960px;
+	margin: 0 auto;
+}	
+body,a{
+	background-color: #efefef;
+	color: #999;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+h1{
+	color: #aaa;
+	padding: 25px 10px;
+	margin-left: 10px;
+}
+nav{
+	float: left;
+	height: 30px;
+	border-top: 15px solid #ddd;
+	margin-top: 300px;
+
+}
+ a{	
+		float: right;
+		padding: 10px 35px;
+		border-bottom: 2px solid #fff;
+		transition:all 0.5s ease-in-out;
+
+}
+
+ a:hover{
+		color: #009bdf;
+
+}
+img{
+	float: left;
+}

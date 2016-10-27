@@ -1,0 +1,153 @@
+#navig{
+	width: auto;
+	height: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 50px;
+	display: inline;
+	padding: 60px;
+	color: white;
+	font-color:white;
+
+
+
+}
+#myhead{
+
+background-color: orange;
+width: 100%;
+
+
+}
+#fixed{
+	
+  
+  background-color: white;
+  color: white;
+  width: 100%;
+ 
+}
+#fixed.stick{
+	position: fixed;
+  top: 0;
+  z-index: 100000000;
+  width: 100%;
+  
+}
+.head{
+	background-color: white;
+	height: 25px;
+	color: white;
+    font-color: white;
+}
+#home{
+	padding-top: 50px;
+	height: 90%;
+	background-color:e394f1;
+}
+.login{
+	font-weight: 10em;
+}
+#contact{
+	padding-top: 100px;
+	height: 100%;
+	background-color: black;
+	text-align: center;
+
+
+}
+.ourcontact{
+	text-align: center;
+	color:white;
+ 
+}
+#about{
+	padding-top: 50px;
+	height: 100%;
+	background-color: 53c0e8;
+	text-align: center;
+
+}
+.aboutus{
+	color: white;
+	text-align: center;
+}
+.picts{
+	display: inline;
+	padding-top: 2px;
+}
+.govt{
+	white-space: 60%;
+	margin-right: 5px;
+	padding: 3%;
+
+}
+.logos{
+    background-color: white;
+}
+#apply{
+
+	padding-top: 5px;
+	height: 100%;
+	background-color: c5e7f4;
+}
+#sign{
+    padding-top: 5px;
+	height: 100%;
+	background-color: 6fc7f5; 
+}
+#login{
+    padding-top: 5px;
+	height: 100%;
+	background-color: 589fe8;
+	text-align: center;
+	padding-top: 20%;
+	padding-left: 5%;
+}
+.mysign{
+	text-align: center;
+	padding-top: 20%;
+}
+.gname,.address,.password{
+	height: 3em;
+	width: 15em;
+	background-color: 6fc7f5;
+	border-top: hidden;
+	border-right: hidden;
+	border-left: hidden;
+
+}
+.regno,.email,.passmatch{
+	
+	height: 3em;
+	width: 15em;
+	background-color: 6fc7f5;
+	border-top: hidden;
+	border-right: hidden;
+	border-left: hidden;
+	padding-left:3%; 
+}
+.submit{
+	width: 100px;
+	border: 1em;
+}
+.lgname,.lpassword{
+	background-color: 589fe8;
+	height: 3em;
+	width: 15em;
+	border-top: hidden;
+	border-right: hidden;
+	border-left: hidden;
+	padding-left:3%; 
+	padding-top: 
+}
+.error{
+	color: red;
+}
+.lgname{
+	padding-left:;
+
+}
+.lpassword{
+	padding-right: ;
+}

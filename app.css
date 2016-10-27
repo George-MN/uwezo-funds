@@ -1,0 +1,35 @@
+.instructions{
+	font-style: italic;
+}
+.det{
+	color: black;
+	display: block;
+	width: auto;
+	height: 0px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 0px;
+	padding: 8px;
+	text-align: left;
+	font-style: italic;
+	}
+	#navig{
+	width: auto;
+	height: 20px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: 50px;
+	display: inline;
+	padding: 50px;
+	color: white;
+	font-color:white;
+}
+.head{
+	background-color: silver;
+	font-color:white;
+	color: white;
+	text-decoration: underline;
+}
+.logos{
+	background-color: orange;
+}
